@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 20px;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    /* background-image: url("https://source.unsplash.com/random/900×700/?fruit"); */
+    background-size: cover;
+   
+}
+.box:hover{
+    scale: 120%;
+    transition: 0.3s;
+}
+.box1{
+    background-image: url('https://source.unsplash.com/random/900×700/?fruit');
+   
+}
+.box2{
+    background-image: url('https://source.unsplash.com/random/900×700/?dog');
+   
+}
+.box3{
+    background-image: url('https://source.unsplash.com/random/900×700/?cat');
+   
+}
+.box3{
+    background-image: url('https://source.unsplash.com/random/900×700/?bike');
+   
+}
+.box4{
+    background-image: url('https://source.unsplash.com/random/900×700/?programming');
+   
+}
+.box5{
+    background-image: url('https://source.unsplash.com/random/900×700/?school');
+   
+}
+.box6{
+    background-image: url('https://source.unsplash.com/random/900×700/?garden');
+   
+}
+.box7{
+    background-image: url('https://source.unsplash.com/random/900×700/?moon');
+   
+}
+.box8{
+    background-image: url('https://source.unsplash.com/random/900×700/?sun');
+   
+}
+.box9{
+    background-image: url('https://source.unsplash.com/random/900×700/?home');
+}
+.box10{
+    background-image: url('https://source.unsplash.com/random/900×700/?star');
+}
+.box11{
+    background-image: url('https://source.unsplash.com/random/900×700/?office');
+}
+.box12{
+    background-image: url('https://source.unsplash.com/random/900×700/?flowers');
+}
+.box13{
+    background-image: url('https://source.unsplash.com/random/900×700/?water');
+}
+.box14{
+    background-image: url('https://source.unsplash.com/random/900×700/?sunflower');
+}
